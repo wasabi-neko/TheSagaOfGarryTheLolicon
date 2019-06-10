@@ -1,4 +1,5 @@
 # The Saga of Garry The Lolicon
+![example image 1](https://github.com/JapariToki/TheSagaOfGarryTheLolicon/blob/master/ReadMe_img/ex1.PNG)
 ***
 ## information:
 ### HLHS_28G_informationG
@@ -16,6 +17,10 @@ this program use `openGL` with `GLUT`, but `GLUT` is a bit *old* now.So its not 
 this porject only took me two weeks to compelet it(excluding the images).So it is a bit...simple or... er... a mess... 
 
 actually, the game is just beta.I didnot completed finish  it.
+***
+## Example images
+![example2](https://github.com/JapariToki/TheSagaOfGarryTheLolicon/blob/master/ReadMe_img/ex2.PNG)
+![example3](https://github.com/JapariToki/TheSagaOfGarryTheLolicon/blob/master/ReadMe_img/ex3.PNG)
 
 ***
 ## How to
@@ -93,3 +98,4 @@ just exe the `~bin/Debug/Game0.exe`.
 ***
 ## whishes
 You might found that the method: `Camera.MoveTo()` is never been used.Actually, i originally plan to make a scroll map for this game, and the `Camera.MoveTo()` is mad for scroll the screen,and the `Show` methods is based to the `Camera` pos.If you want, you can new a new_branch, and try to compelte this, making this game a real scroll map game. 
+![=u=](https://github.com/JapariToki/TheSagaOfGarryTheLolicon/blob/master/ReadMe_img/=u=.bmp)
