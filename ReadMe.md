@@ -80,6 +80,8 @@ just exe the `~bin/Debug/Game0.exe`.
 
 *the position in all of the `Show()` method is using relative pos(real - camera.center)*
 
+the `max_score` data is stored in the `~bin/Debug/data/max_score.txt`
+
 ***
 
 ## how it works
