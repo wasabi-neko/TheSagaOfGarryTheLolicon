@@ -28,9 +28,11 @@ just exe the `~bin/Debug/Game0.exe`.
 | :------- |
 | `Point` |
 
+
 *all the graphic methods are in this class*
+
 | `Image` |
-| :--- |
+| :----- |
 | `opencv methods` |
 | `openGL methods` |
 
@@ -40,30 +42,34 @@ just exe the `~bin/Debug/Game0.exe`.
 | `some staue values`|
 
 | `Character`|
-| ;-- |
+| :-- |
 | `Block` |
 | `Image` |
 | `some methods` |
 | `some values` |
 
+
 `Player` extend form: `Character`
+
 | `Player` |
-| :-- |
+| :----- |
 | `new contorl key` |
 | `defin some value` |
 
+
 `FlyingRabbit` extend from: `Character`
+
 | `FlyingRabbit` |
-| :-- |
+| :--- |
 | `new enemy methods` |
 | `define some value` |
 
 | `Enemy` |
-| :-- |
+| :--- |
 | `contorls all of the enemy` |
 
 | `PlayerStatu` |
-| :-- |
+| :--- |
 | `store player sta` |
 | `contorl player in mainLoop` |
 
@@ -74,14 +80,14 @@ just exe the `~bin/Debug/Game0.exe`.
 ## how it works
 * initialize all (`BackGround`, `Enemy`, `Player`)
 * start `GLUT` main loop
-* * show the buffer
-* * wait a few millmiseconds
-* * get keyBoard keys
-* * `if (exit)` then break loop 
-* * calculate and update the game staues
-* * `if (dead)` then break loop and set sta to endGame
-* * draw all the things sould be seen on the buffer perspectively
-* * swap buffer
+  * show the buffer
+  * wait a few millmiseconds
+  * get keyBoard keys
+  * `if (exit)` then break loop 
+  * calculate and update the game staues
+  * `if (dead)` then break loop and set sta to endGame
+  * draw all the things sould be seen on the buffer perspectively
+  * swap buffer
 * END
 
 ***
