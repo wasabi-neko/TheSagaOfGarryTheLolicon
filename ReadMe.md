@@ -10,11 +10,12 @@
 ## description:
 mad with `C++`, `openGL`, `openCV2` .
 
-The `openCV2` lib is for opening and storing imgs.The `openGL` is for 'drawing' the window.
+The `openCV2` lib is for opening and storing imgs.
+And the `openGL` is for 'drawing' the window.
 
 this program use `openGL` with `GLUT`, but `GLUT` is a bit *old* now.So its not recommand that operat the `openGl` with `GLUT` now.
 
-this porject only took me two weeks to compelet it(excluding the images).So it is a bit...simple or... er... a mess... 
+this porject only took me two weeks to compelet(excluding the images).So it is a bit...simple or... er... a mess... 
 
 actually, the game is just beta.I didnot completed finish  it.
 ***
