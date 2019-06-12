@@ -45,7 +45,7 @@ Just execute the `~bin/Debug/Game0.exe`.
 | `Camera` |
 | :-- |
 | `Block`|
-| `some statue values`|
+| `some status values`|
 
 | `Character`|
 | :-- |
@@ -74,9 +74,9 @@ Just execute the `~bin/Debug/Game0.exe`.
 | :--- |
 | `controls all of the enemy` |
 
-| `PlayerStatus` |
+| `PlayerStatu` |
 | :--- |
-| `store player stats` |
+| `store player status` |
 | `control player in mainLoop` |
 
 *the position in all of the `Show()` method is using relative pos(real - camera.center)*
