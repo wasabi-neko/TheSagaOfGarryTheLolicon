@@ -99,7 +99,7 @@ the `max_score` data is stored in the `~bin/Debug/data/max_score.txt`
 * END
 
 ***
-## whishes
+## The thing have not done
 You might found that the method: `Camera.MoveTo()` is never been used.Actually, i originally plan to make a scroll map for this game, and the `Camera.MoveTo()` is mad for scroll the screen,and the `Show` methods is based to the `Camera` pos.If you want, you can new a new_branch, and try to compelte this, making this game a real scroll map game. 
 
 ![=u=](https://github.com/JapariToki/TheSagaOfGarryTheLolicon/blob/master/ReadMe_img/=u=.bmp)
